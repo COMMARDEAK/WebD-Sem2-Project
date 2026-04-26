@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Alex Morgan — Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="navbar" id="navbar">
+    <div class="logo">Alex Morgan</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+    <button class="hamburger" id="hamburger">&#9776;</button>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero" id="home">
+    <p class="hero-greeting">Hi, I'm</p>
+    <h1>Alex Morgan</h1>
+    <p class="hero-sub">Frontend Developer &amp; UI Designer</p>
+    <div class="hero-btns">
+      <a href="#projects" class="btn btn-primary">View Projects</a>
+      <a href="#contact" class="btn btn-outline">Contact Me</a>
+    </div>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="section" id="about">
+    <div class="container">
+      <h2 class="section-title">About Me</h2>
+      <div class="about-grid">
+        <div>
+          <p>I'm a frontend developer who loves building clean and responsive websites. I have 3+ years of experience working with HTML, CSS, JavaScript, and React.</p>
+          <p style="margin-top:1rem;">When I'm not coding, I enjoy UI design, reading, and exploring new tech.</p>
+          <div class="stats">
+            <div class="stat"><span>20+</span>Projects</div>
+            <div class="stat"><span>10+</span>Clients</div>
+            <div class="stat"><span>3+</span>Years Exp.</div>
+          </div>
+        </div>
+        <div class="info-list">
+          <div class="info-row"><b>Name</b><span>Alex Morgan</span></div>
+          <div class="info-row"><b>Email</b><span>alex@email.com</span></div>
+          <div class="info-row"><b>Location</b><span>New York, USA</span></div>
+          <div class="info-row"><b>Degree</b><span>B.Tech, CS</span></div>
+          <div class="info-row"><b>Status</b><span class="green">Available ✓</span></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section bg-alt" id="skills">
+    <div class="container">
+      <h2 class="section-title">Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <div class="skill-top"><span>HTML & CSS</span><span>92%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="92%"></div></div>
+        </div>
+        <div class="skill-item">
+          <div class="skill-top"><span>JavaScript</span><span>80%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="80%"></div></div>
+        </div>
+        <div class="skill-item">
+          <div class="skill-top"><span>React</span><span>75%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="75%"></div></div>
+        </div>
+        <div class="skill-item">
+          <div class="skill-top"><span>UI/UX Design</span><span>78%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="78%"></div></div>
+        </div>
+        <div class="skill-item">
+          <div class="skill-top"><span>Git & GitHub</span><span>85%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="85%"></div></div>
+        </div>
+        <div class="skill-item">
+          <div class="skill-top"><span>Node.js</span><span>60%</span></div>
+          <div class="bar"><div class="bar-fill" data-w="60%"></div></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section" id="projects">
+    <div class="container">
+      <h2 class="section-title">Projects</h2>
+      <div class="projects-grid">
+        <div class="card">
+          <div class="card-img" style="background:linear-gradient(135deg,#667eea,#764ba2)"></div>
+          <div class="card-body">
+            <span class="tag">React · CSS</span>
+            <h3>E-Commerce App</h3>
+            <p>A responsive shopping app with cart functionality and product filters.</p>
+            <div class="card-links">
+              <a href="#">Live Demo →</a>
+              <a href="#">GitHub →</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img" style="background:linear-gradient(135deg,#f093fb,#f5576c)"></div>
+          <div class="card-body">
+            <span class="tag">HTML · JS</span>
+            <h3>Weather Dashboard</h3>
+            <p>Real-time weather app using OpenWeather API with location detection.</p>
+            <div class="card-links">
+              <a href="#">Live Demo →</a>
+              <a href="#">GitHub →</a>
+            </div>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-img" style="background:linear-gradient(135deg,#4facfe,#00f2fe)"></div>
+          <div class="card-body">
+            <span class="tag">React · Node</span>
+            <h3>Task Manager</h3>
+            <p>A task management app with drag-and-drop, priorities, and reminders.</p>
+            <div class="card-links">
+              <a href="#">Live Demo →</a>
+              <a href="#">GitHub →</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section bg-alt" id="contact">
+    <div class="container">
+      <h2 class="section-title">Contact</h2>
+      <div class="contact-grid">
+        <div>
+          <p>Have a project in mind? Feel free to reach out — I'd love to connect!</p>
+          <div class="contact-info">
+            <p>📧 alex@email.com</p>
+            <p>💼 linkedin.com/in/alexmorgan</p>
+            <p>🐙 github.com/alexmorgan</p>
+          </div>
+        </div>
+        <form id="contactForm">
+          <input type="text" placeholder="Your Name" required />
+          <input type="email" placeholder="Your Email" required />
+          <textarea rows="5" placeholder="Your Message" required></textarea>
+          <button type="submit" class="btn btn-primary">Send Message</button>
+          <p class="form-msg" id="formMsg"></p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Alex Morgan — Built with HTML, CSS & JS</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
