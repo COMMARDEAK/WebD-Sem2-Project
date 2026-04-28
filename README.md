@@ -1,4 +1,4 @@
-This webpage was made as per the assignment provided to 2nd sem dsa student for Web Designing class. /n
+This webpage was made as per the assignment provided to 2nd sem dsa student for Web Designing class. 
 Created by Abhjeet Kumar
            CSE (DSA)
            Roll No.- 12513004
