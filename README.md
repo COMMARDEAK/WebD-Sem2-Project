@@ -1,4 +1,4 @@
-This webpage was made as per the assignment provided to 2nd sem dsa student for Web Designing class.
+This webpage was made as per the assignment provided to 2nd sem dsa student for Web Designing class. /n
 Created by Abhjeet Kumar
            CSE (DSA)
            Roll No.- 12513004
@@ -7,12 +7,30 @@ Additional Team member details:
            Name - Daksh Longwal
            CSE (DSA)
            Rll No. - 12513016
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ef62acf-bee2-4260-b1ba-eaf0ea28889f" />
-**<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37bcb86d-e624-4bce-9aba-31bd8fab1104" />
-**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8661cd3-a636-4e03-9eca-5d9087f66a4e" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e545ebae-d79f-451d-9585-f3ccd3015ee8" />\
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/640b97e0-581f-4f8d-8ec0-b1d119e2a6af" />
+
+
+
+
+
+           
+
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/6cf127a1-f856-4476-bc73-de23bec3e67d" />
+
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/1354ae45-479b-46bb-b9a5-447b8466cfd1" />
+
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/51141514-c09a-4a84-ae3c-c19ebae27b55" />
+
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/5bee471a-ce1f-4f13-a200-5fe4fac1ab55" />
+
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/2362936f-42d4-40a9-a177-d34491e82366" />
+
+
+
+
 
 
 
