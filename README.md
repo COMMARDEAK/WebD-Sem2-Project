@@ -1,12 +1,12 @@
 This webpage was made as per the assignment provided to 2nd sem dsa student for Web Designing class.   
 Created by Abhjeet Kumar  
-&nbsp;&nbsp;&nbsp;&nbsp;           CSE (DSA)  
-&nbsp;&nbsp;&nbsp;&nbsp;           Roll No.- 12513004  
-&nbsp;&nbsp;&nbsp;&nbsp;           Sunmitted To - Dr. Vinay Kaushik  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           CSE (DSA)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Roll No.- 12513004  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Submitted To - Dr. Vinay Kaushik  
 Additional Team member details:  
-&nbsp;&nbsp;&nbsp;           Name - Daksh Longwal  
-&nbsp;&nbsp;&nbsp;           CSE (DSA)  
-&nbsp;&nbsp;&nbsp;           Rll No. - 12513016  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Name - Daksh Longwal  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           CSE (DSA)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           Roll No. - 12513016  
 
 
 
